@@ -1,0 +1,12 @@
+Thibaut DUSAUTOIR
+
+1) Conserver un historique, Revenir en arrière en cas de problème, Travailler à plusieurs, Suivre les modifications de chaque fichier.
+2) Vrai.
+3) git init.
+4) Working directory, Repository, Index.
+5) git remote add DEP https://github.com/xxxxxx/monDepotDistant.
+6) git clone https://github.com/xxxxxx/monDepotDistant.
+7) git stash, git branch BranchFile, git checkout BranchFile, git stash apply.
+8) Modifier le message du commit précédent.
+9) git revert crée un nouveau commit alors que git reset, non.
+10) git blame
